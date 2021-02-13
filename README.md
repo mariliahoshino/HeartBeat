@@ -35,5 +35,11 @@ Source:<br>
 Example code for Arduino with MAX30102
 https://surtrtech.com/2019/02/05/measure-heart-pulses-bpm-and-oxygen-saturation-spo%C2%B2-with-max30102-and-arduino/ <br>
 
+songs melody<br>
+https://athoselectronics.com/buzzer-arduino-musica/ <br>
+
+https://autocorerobotica.blog.br/aprenda-a-reproduzir-musicas-com-o-modulo-buzzer-2/ <br>
+
 driver CH340, for arduino with CH340 <br> 
 https://sparks.gogo.co.nz/ch340.html <br>
+
