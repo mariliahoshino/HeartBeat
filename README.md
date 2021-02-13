@@ -43,6 +43,8 @@ https://athoselectronics.com/buzzer-arduino-musica/ <br>
 
 https://autocorerobotica.blog.br/aprenda-a-reproduzir-musicas-com-o-modulo-buzzer-2/ <br>
 
+https://dragaosemchama.com/2019/02/musicas-para-arduino/<br>
+
 driver CH340, for arduino with CH340 <br> 
 https://sparks.gogo.co.nz/ch340.html <br>
 
