@@ -32,8 +32,11 @@ How to make a gift Heart
 
 
 Source:<br>
-Example code for Arduino with MAX30102
+Example code for Arduino with MAX30102 <br>
 https://surtrtech.com/2019/02/05/measure-heart-pulses-bpm-and-oxygen-saturation-spo%C2%B2-with-max30102-and-arduino/ <br>
+
+library MAX30102<br>
+https://github.com/sparkfun/SparkFun_MAX3010x_Sensor_Library <br>
 
 songs melody<br>
 https://athoselectronics.com/buzzer-arduino-musica/ <br>
