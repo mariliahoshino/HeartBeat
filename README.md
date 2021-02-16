@@ -40,6 +40,7 @@ https://github.com/sparkfun/SparkFun_MAX3010x_Sensor_Library <br>
 
 heartbeat sound<br>
 https://www.youtube.com/watch?v=4DJU3NVmOH8 <br>
+https://www.youtube.com/watch?v=4jKZugw4Sfw <br>
 
 frequency <br>
 http://blogtudoamao.blogspot.com/2016/06/tabela-com-frequencia-de-todas-as-notas.html<br>
