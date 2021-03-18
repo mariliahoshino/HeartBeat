@@ -24,7 +24,7 @@ I made the plaster mix and I inserted it in the form <br>
 2º After of the plaster dried, I used for made a Heart Iron Metal wire <br>
 <img src="https://github.com/mariliahoshino/HeartBeat/blob/main/pictures/20210205_125344.jpg?raw=true" height="200" widht="200" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/mariliahoshino/HeartBeat/blob/main/pictures/20210212_195009.jpg?raw=true" height="200" widht="200" >
 
-
+3º Soldering the LEDs <br>
 <img src="https://github.com/mariliahoshino/HeartBeat/blob/main/pictures/20210214_195129.jpg?raw=true" height="200" widht="200" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/mariliahoshino/HeartBeat/blob/main/pictures/20210214_204314.jpg?raw=true" height="200" widht="200" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/mariliahoshino/HeartBeat/blob/main/pictures/20210214_214135.jpg?raw=true" height="200" widht="200" >
 
 Now I put the input wire in high level, all LEDs will turn on color change, normally white <br>
