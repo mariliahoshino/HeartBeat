@@ -6,6 +6,15 @@ for Mother's Day
 
 
 
+<object classid="clsid:25336920-03F9-11CF-8FD0-00AA00686F13" data="http://www.maujor.com/">
+<p>conteúdo alternativo para tecnologias que não suportam OBJECT</p>
+</object>
+
+<!--[if !IE]> <-->
+<object type="text/html" data="http://www.maujor.com/">
+<p>conteúdo alternativo para tecnologias que não suportam OBJECT</p>
+</object>
+<!--> <![endif]-->
 
 
 
@@ -43,6 +52,9 @@ https://github.com/sparkfun/SparkFun_MAX3010x_Sensor_Library <br>
 
 How control adrdressable LED WS8212b <br>
 https://howtomechatronics.com/tutorials/arduino/how-to-control-ws2812b-individually-addressable-leds-using-arduino/ <br>
+
+library WS2812b <br>
+https://github.com/FastLED/FastLED <br>
 
 
 <!--
