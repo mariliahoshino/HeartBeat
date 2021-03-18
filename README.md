@@ -8,9 +8,9 @@
 
 
 
-# HeartBeat
-How to make a gift Heart for your mother
-for Mother's Day
+# HeartBeat <br><br>
+## Gift Mother's Day <br>
+How to make a gift Heart for your mother <br>
 
 In this project I made a metal heart with arduino, where the microcontroller read the heart signal frequency in finger
 After the microcontroller send signals for serials LEDs WS2812b and blink the red light in heart frequency and play the mini song heart sound
