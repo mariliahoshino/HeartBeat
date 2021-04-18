@@ -16,15 +16,18 @@ In this project I made a metal heart with arduino, where the microcontroller rea
 After the microcontroller send signals for serials LEDs WS2812b and blink the red light in heart frequency and play the mini song heart sound
 
 
-1º I used chocolate shape <br>
+ I used chocolate shape <br>
 I made the plaster mix and I inserted it in the form <br>
 
 <img src="https://github.com/mariliahoshino/HeartBeat/blob/main/pictures/20210202_111030.jpg?raw=true" height="200" widht="200" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/mariliahoshino/HeartBeat/blob/main/pictures/20210202_112120.jpg?raw=true" height="200" widht="200" >
 
-2º After of the plaster dried, I used for made a Heart Iron Metal wire <br>
+ After of the plaster dried, I used for made a Heart Iron Metal wire <br>
 <img src="https://github.com/mariliahoshino/HeartBeat/blob/main/pictures/20210205_125344.jpg?raw=true" height="200" widht="200" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/mariliahoshino/HeartBeat/blob/main/pictures/20210212_195009.jpg?raw=true" height="200" widht="200" >
 
-3º Welding the LEDs <br>
+ Welding the LEDs <br>
+<img src="https://github.com/mariliahoshino/HeartBeat/blob/main/schematic/WS2812B-Addressable-RGB-LED-pinout-diagram.jpg?raw=true" height="200" widht="200" >
+
+
 <img src="https://github.com/mariliahoshino/HeartBeat/blob/main/pictures/20210214_195129.jpg?raw=true" height="200" widht="200" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/mariliahoshino/HeartBeat/blob/main/pictures/20210214_204314.jpg?raw=true" height="200" widht="200" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/mariliahoshino/HeartBeat/blob/main/pictures/20210214_214135.jpg?raw=true" height="200" widht="200" >
 
 Now I put the input wire in high level, all LEDs will turn on color change, normally white <br>
@@ -40,7 +43,7 @@ There're two importants peripheral and necessary 2 libraries <br>
 For source I used a lithium battery and circuit load manager tp1046, and for audio I used ISD1806 and recorded a heartbeat <br>
 <img src="https://github.com/mariliahoshino/HeartBeat/blob/main/pictures/20210313_222056.jpg?raw=true" height="200" widht="200" >
 
-3º I Painted the heart with pink ink <br>
+ I Painted the heart with pink ink <br>
 <img src="https://github.com/mariliahoshino/HeartBeat/blob/main/pictures/20210314_151220.jpg?raw=true" height="200" widht="200" > <br>
 
 
@@ -51,6 +54,7 @@ Link Instagran
 
 
 Schematic: <br>
+<img src="https://github.com/mariliahoshino/HeartBeat/blob/main/schematic/schematic.png?raw=true" height="600" widht="600" > <br>
 
 
 
