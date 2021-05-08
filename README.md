@@ -40,7 +40,7 @@ There're two importants peripheral and necessary 2 libraries <br>
 2.library WS2812b <br>
   https://github.com/FastLED/FastLED <br>
  
-For source I used a lithium battery and circuit load manager tp1046, and for audio I used ISD1806 and recorded a heartbeat <br>
+For source I used a lithium battery and circuit charge manager tp1046, and for audio I used ISD1806 and recorded a heartbeat <br>
 <img src="https://github.com/mariliahoshino/HeartBeat/blob/main/pictures/20210313_222056.jpg?raw=true" height="200" widht="200" >
 
  I Painted the heart with pink ink <br>
