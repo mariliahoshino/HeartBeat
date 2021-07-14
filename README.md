@@ -1,14 +1,18 @@
-### My profile in 
+# HeartBeat <br><br>
+
+### <a href="https://github.com/mariliahoshino"> My profile </a>
+
+<!--
 
 <a href="https://www.linkedin.com/in/mariliahoshino/"><img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/profile/logo_linkedin.png?raw=true" height="50" widht="400"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://www.mariliah.dev/"> Personal page <img src ="https://github.com/mariliahoshino/mariliahoshino/blob/master/profile/logo_site.png?raw=true" height="50" widht="400"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://www.instagram.com/mari.zeniti/"><img src = "https://github.com/mariliahoshino/mariliahoshino/blob/master/profile/logo_instagram.png?raw=true"  height="50" widht="400"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://www.facebook.com/mari.zeniti"><img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/profile/logo_facebook.png?raw=true"   height="50" widht="400"></a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://linktr.ee/mariliah"><img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/profile/logo_linktree.png?raw=true"   height="50" widht="400"></a>
+-->
+Video project working <br>
+https://www.instagram.com/p/COoVVzjp6V8/ <br>
 
-
-
-# HeartBeat <br><br>
 ## Gift Mother's Day <br>
 How to make a gift Heart for your mother <br>
 
