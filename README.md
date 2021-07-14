@@ -53,8 +53,8 @@ For source I used a lithium battery and circuit charge manager tp1046, and for a
 
 Now the project working <br>
 <img src="https://github.com/mariliahoshino/HeartBeat/blob/main/pictures/20210317_180513.jpg?raw=true" height="200" widht="200" > <br>
-You can see the video in my publish at Instagran
-Link Instagran
+You can see the video in my publish at Instagran <br>
+Link https://www.instagram.com/p/COoVVzjp6V8/ <br>
 
 
 Schematic: <br>
